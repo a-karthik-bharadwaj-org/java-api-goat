@@ -1,3 +1,3 @@
-# java-api-goat - Policy scan trigger - try 2
+# java-api-goat - Policy scan trigger - try 3
 
 A simple Java Spring Boot REST App with Vulnerabilities.
